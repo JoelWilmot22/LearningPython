@@ -1,6 +1,11 @@
-print("My top five favorite movies are:")
-print("The Dark Knight")
-print("The Shawshank Redemption")
-print("The Empire Strikes Back")
-print("Back To The Future")
-print("Raiders Of The Lost Ark")
+adjective1 = "big"
+noun1 = "book"
+pluralNoun1 = "schools"
+femaleName = "sally"
+adjective2 = "blue"
+clothing1 = "hat"
+noun2 = "store"
+city1 = "New York"
+pluralNoun2 = "cars"
+adjective3 = "tiny"
+print("There are many " + adjective1 + " ways to choose a "  )

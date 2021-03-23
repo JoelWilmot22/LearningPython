@@ -15,4 +15,4 @@ print("There are many " + adjective1 + " ways to choose a " + noun1 + " to read.
 print("Just don't ask Aunt " + femaleName + " --she only reads " + adjective2 + " books with fasion advice about " + clothing1)
 print("If your friends and family are no help, try checking out the " + noun2 + " Review in The " + city1 + " Times.")
 print("If the " + pluralNoun2 + " featured there are too " + adjective3 + " for your taste, try somthing a little more...")
-print("Thank you for playing!")
+print("Thank you for playing")

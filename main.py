@@ -1,18 +1,4 @@
-print("Welcome to Joel's mad lib. Please answer the following questions")
-adjective1 = input("Choose an adjective\n")
-noun1 = input("Choose a noun\n")
-pluralNoun1 = input("Choose a plural noun\n")
-femaleName = input("Choose a female name\n")
-adjective2 = input("Choose another adjective\n")
-clothing1 = input("Choose an article of clothing\n")
-noun2 = input("Choose another noun\n")
-city1 = input("Choose a city\n")
-pluralNoun2 = input("Choose another plural noun\n")
-adjective3 = input("Choose another adjective\n")
+def addTwoNumbers(x,y):
+    return x + y
 
-print("Here is your mad lib:")
-print("There are many " + adjective1 + " ways to choose a " + noun1 + " to read. First, you could ask for recommendations from your friends and " + pluralNoun1 + ". ")
-print("Just don't ask Aunt " + femaleName + " --she only reads " + adjective2 + " books with fasion advice about " + clothing1)
-print("If your friends and family are no help, try checking out the " + noun2 + " Review in The " + city1 + " Times.")
-print("If the " + pluralNoun2 + " featured there are too " + adjective3 + " for your taste, try somthing a little more...")
-print("Thank you for playing")
+print(addTwoNumbers(5,7))
